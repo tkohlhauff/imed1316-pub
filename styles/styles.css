@@ -1,0 +1,59 @@
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+
+#sidebar{
+  background-color:#15bcac;
+  height:100vh;
+  width:8vw;
+  opacity:0.5;
+}
+#used1{
+  background-color: #c51a4a;
+  border-radius: 75px 0px 0px 75px;
+  padding-top:4px;
+}
+#used2{
+  background-color: #c51a4a;
+  border-radius: 0px 75px 75px 0px;
+  padding-top:4px;
+}
+#guru{
+  background-color: #6cc04a;
+  padding-left:2.9%;
+}
+#navbarDropdownMenuLink{
+  background-color: #6cc04a;
+  height:50px;
+}
+#contact{
+  background-color:#ffbd5c;
+  border-radius: 50px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align:center;
+}
+#pihole{
+  background-color:#6CC04A;
+  height:253px;
+  width:480px;
+  border-radius: 50px;
+}
+#pihole-img{
+  padding-bottom:15px;
+}
+#index-bar{
+  font-size:xx-large;
+}
+#osmc{
+  width:450px;
+  border-radius: 50px;
+}
+#image-row{
+  padding-top:20px;
+}
+.pi{
+  height:100%;
+}
